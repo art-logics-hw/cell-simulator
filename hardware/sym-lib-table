@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "RTE24005")(type "Legacy")(uri "/home/hotte/Workspace/ARTLogics/components/kicad/RTE24005.lib")(options "")(descr ""))
+  (lib (name "V23105A5001A201")(type "Legacy")(uri "/home/hotte/Workspace/ARTLogics/components/kicad/V23105A5001A201.lib")(options "")(descr ""))
+  (lib (name "SS34")(type "Legacy")(uri "/home/hotte/Workspace/ARTLogics/components/kicad/SS34.lib")(options "")(descr ""))
+)

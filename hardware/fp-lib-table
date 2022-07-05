@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "/home/hotte/Workspace/ARTLogics/components/kicad/footprints.pretty")(options "")(descr ""))
+)
