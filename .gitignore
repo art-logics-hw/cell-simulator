@@ -22,3 +22,5 @@ fp-info-cache
 
 # auto backup files
 *-backups/
+
+*auto_saved_files*
